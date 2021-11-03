@@ -1,0 +1,22 @@
+body {
+    background-color: wheat;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    width: 5%;        
+}
+
+img {
+    height: 200px;
+}
+
+h1 {
+    color: gray;
+}
+h3{
+    color: gray;
+}
